@@ -1,2 +1,2 @@
-str1="Hello Word"
+str1="Hello Word！"
 print(str1)
