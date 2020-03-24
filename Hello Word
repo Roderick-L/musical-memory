@@ -1,0 +1,2 @@
+str1="Hello Word"
+print(str1)
